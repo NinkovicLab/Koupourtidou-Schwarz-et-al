@@ -1,6 +1,6 @@
 # Koupourtidou-Schwarz-et-al
 
-Spatial and single cell transcriptomics of all cells to brain injury in the mouse cerebral cortex.
+Spatial and single-cell transcriptomics of all cells in the mouse cerebral cortex in response to brain injury.
 
 # Code
 
