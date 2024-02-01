@@ -1,6 +1,11 @@
 # Koupourtidou-Schwarz-et-al
 
-Spatial and single cell transcriptomics of all cells to brain injury in the mouse cerebral cortex.
+Spatial and single cell transcriptomics of all cells in the mouse cerebral cortex in response to brain injury.
+This repository contains the code for analyzing single-cell (scRNA-seq) and spatial transcriptomics (stRNA-seq) data from: Koupourtidou-Schwarz-et-al
+
+# Data
+
+Both FASTQ and Cell/Space Ranger-generated matrix files generated in this project can be directly downloaded from GEO: [GSE226211](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE226208) 
 
 # Code
 
