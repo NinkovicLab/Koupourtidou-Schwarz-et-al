@@ -1,5 +1,7 @@
 # Koupourtidou-Schwarz-et-al
 
+(https://zenodo.org/badge/DOI/10.5281/zenodo.10619836.svg)
+
 Spatial and single cell transcriptomics of all cells in the mouse cerebral cortex in response to brain injury.
 This repository contains the code for analyzing single-cell (scRNA-seq) and spatial transcriptomics (stRNA-seq) data from: Koupourtidou-Schwarz-et-al
 
